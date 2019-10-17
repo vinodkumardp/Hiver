@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="HiverAutomation">
+
+    <test name="Assignment1" >
+        <classes>
+            <class name="assignment1"/>
+        </classes>
+    </test>
+
+    <test name="Assignment2" >
+        <classes>
+            <class name="assignment2"/>
+        </classes>
+    </test>
+
+
+</suite>
